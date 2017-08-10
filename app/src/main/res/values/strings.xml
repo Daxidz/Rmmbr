@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rmmbr!</string>
+    <string name="title_activity_create_an_event">CreateAnEvent</string>
+    <string name="add_a_task">Nouveau</string>
+    <string name="subject">matière</string>
+    <string name="title">titre</string>
+    <string name="title_activity_show_event">ShowEventActivity</string>
+</resources>
